@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOOpyFZ7rvxnZevkXDFzxswowVmph0xOl3wX5UwZuUxR5HofOkPvspD1yovI+dclUx8DkxXi8XeMupwLs8iHYA==",
+  "success": true,
+  "projectFilePath": "D:\\Curso INA Programacion\\5to Modulo Programacion orientada a Objetos\\Tareas C#\\Tarea 12\\Portafolio_12_JaenCarlo\\02_CapaLogicaNegocio\\02_CapaLogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
